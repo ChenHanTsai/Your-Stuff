@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: d39e6d8f09f269f42bed428bbbe26b66
+timeCreated: 1456595811
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box035
+    100002: Box036
+    100004: Box037
+    100006: Box038
+    100008: Box039
+    100010: Box040
+    100012: Box041
+    100014: Box042
+    100016: Box043
+    100018: Box044
+    100020: Box045
+    100022: Box047
+    100024: Box048
+    100026: Box049
+    100028: Box050
+    100030: Box051
+    100032: Box052
+    100034: Box053
+    100036: Box054
+    100038: Box055
+    100040: Box056
+    100042: Box057
+    100044: Box058
+    100046: Box059
+    100048: Box060
+    100050: Box062
+    100052: Box063
+    100054: Box064
+    100056: Box075
+    100058: Box076
+    100060: Box077
+    100062: Box078
+    100064: Box079
+    100066: Box080
+    100068: Box081
+    100070: Box082
+    100072: Box083
+    100074: Box084
+    100076: Box085
+    100078: Box098
+    100080: Box099
+    100082: Box100
+    100084: Box101
+    100086: Box102
+    100088: Box104
+    100090: Box105
+    100092: Box106
+    100094: Box107
+    100096: Box108
+    100098: Box109
+    100100: Box111
+    100102: Box112
+    100104: Box113
+    100106: Box114
+    100108: Box131
+    100110: Box167
+    100112: Box168
+    100114: Box169
+    100116: Capsule009
+    100118: Capsule013
+    100120: Compass001
+    100122: //RootNode
+    100124: Cylinder008
+    100126: Cylinder011
+    100128: Cylinder013
+    100130: Cylinder014
+    100132: Daylight001
+    100134: Group009
+    100136: Group010
+    100138: Group013
+    100140: Group015
+    100142: Group016
+    100144: Group017
+    100146: Group018
+    100148: Group019
+    100150: Group020
+    100152: Group022
+    100154: Group024
+    100156: Group033
+    100158: Pyramid003
+    100160: Pyramid004
+    100162: Sky002
+    100164: Sun002
+    100166: Torus003
+    100168: Torus004
+    100170: backnurbsCube1
+    100172: backnurbsCube2
+    100174: backnurbsCube3
+    100176: backnurbsCube4
+    100178: backnurbsCube5
+    100180: bottomnurbsCube1
+    100182: Box036 1
+    100184: Box037 1
+    100186: Box038 1
+    100188: Box039 1
+    100190: Box040 1
+    100192: Box041 1
+    100194: Box042 1
+    100196: Box043 1
+    100198: Box044 1
+    100200: Box045 1
+    100202: Box047 1
+    100204: Box048 1
+    100206: Box049 1
+    100208: Capsule009 1
+    100210: Cylinder008 1
+    100212: frontnurbsCube1
+    100214: Group0010
+    100216: leftnurbsCube1
+    100218: nurbsCube1
+    100220: Pyramid003 1
+    100222: rightnurbsCube1
+    100224: topnurbsCube1
+    100226: Torus003 1
+    400000: Box035
+    400002: Box036
+    400004: Box037
+    400006: Box038
+    400008: Box039
+    400010: Box040
+    400012: Box041
+    400014: Box042
+    400016: Box043
+    400018: Box044
+    400020: Box045
+    400022: Box047
+    400024: Box048
+    400026: Box049
+    400028: Box050
+    400030: Box051
+    400032: Box052
+    400034: Box053
+    400036: Box054
+    400038: Box055
+    400040: Box056
+    400042: Box057
+    400044: Box058
+    400046: Box059
+    400048: Box060
+    400050: Box062
+    400052: Box063
+    400054: Box064
+    400056: Box075
+    400058: Box076
+    400060: Box077
+    400062: Box078
+    400064: Box079
+    400066: Box080
+    400068: Box081
+    400070: Box082
+    400072: Box083
+    400074: Box084
+    400076: Box085
+    400078: Box098
+    400080: Box099
+    400082: Box100
+    400084: Box101
+    400086: Box102
+    400088: Box104
+    400090: Box105
+    400092: Box106
+    400094: Box107
+    400096: Box108
+    400098: Box109
+    400100: Box111
+    400102: Box112
+    400104: Box113
+    400106: Box114
+    400108: Box131
+    400110: Box167
+    400112: Box168
+    400114: Box169
+    400116: Capsule009
+    400118: Capsule013
+    400120: Compass001
+    400122: //RootNode
+    400124: Cylinder008
+    400126: Cylinder011
+    400128: Cylinder013
+    400130: Cylinder014
+    400132: Daylight001
+    400134: Group009
+    400136: Group010
+    400138: Group013
+    400140: Group015
+    400142: Group016
+    400144: Group017
+    400146: Group018
+    400148: Group019
+    400150: Group020
+    400152: Group022
+    400154: Group024
+    400156: Group033
+    400158: Pyramid003
+    400160: Pyramid004
+    400162: Sky002
+    400164: Sun002
+    400166: Torus003
+    400168: Torus004
+    400170: backnurbsCube1
+    400172: backnurbsCube2
+    400174: backnurbsCube3
+    400176: backnurbsCube4
+    400178: backnurbsCube5
+    400180: bottomnurbsCube1
+    400182: Box036 1
+    400184: Box037 1
+    400186: Box038 1
+    400188: Box039 1
+    400190: Box040 1
+    400192: Box041 1
+    400194: Box042 1
+    400196: Box043 1
+    400198: Box044 1
+    400200: Box045 1
+    400202: Box047 1
+    400204: Box048 1
+    400206: Box049 1
+    400208: Capsule009 1
+    400210: Cylinder008 1
+    400212: frontnurbsCube1
+    400214: Group0010
+    400216: leftnurbsCube1
+    400218: nurbsCube1
+    400220: Pyramid003 1
+    400222: rightnurbsCube1
+    400224: topnurbsCube1
+    400226: Torus003 1
+    2300000: Box035
+    2300002: Box036
+    2300004: Box037
+    2300006: Box038
+    2300008: Box039
+    2300010: Box040
+    2300012: Box041
+    2300014: Box042
+    2300016: Box043
+    2300018: Box044
+    2300020: Box045
+    2300022: Box047
+    2300024: Box048
+    2300026: Box049
+    2300028: Box050
+    2300030: Box051
+    2300032: Box052
+    2300034: Box053
+    2300036: Box054
+    2300038: Box055
+    2300040: Box056
+    2300042: Box057
+    2300044: Box058
+    2300046: Box059
+    2300048: Box060
+    2300050: Box062
+    2300052: Box063
+    2300054: Box064
+    2300056: Box075
+    2300058: Box076
+    2300060: Box077
+    2300062: Box078
+    2300064: Box079
+    2300066: Box080
+    2300068: Box081
+    2300070: Box082
+    2300072: Box083
+    2300074: Box084
+    2300076: Box085
+    2300078: Box098
+    2300080: Box099
+    2300082: Box100
+    2300084: Box101
+    2300086: Box102
+    2300088: Box104
+    2300090: Box105
+    2300092: Box106
+    2300094: Box107
+    2300096: Box108
+    2300098: Box109
+    2300100: Box111
+    2300102: Box112
+    2300104: Box113
+    2300106: Box114
+    2300108: Box131
+    2300110: Box167
+    2300112: Box168
+    2300114: Box169
+    2300116: Capsule009
+    2300118: Capsule013
+    2300120: Cylinder008
+    2300122: Cylinder011
+    2300124: Cylinder013
+    2300126: Cylinder014
+    2300128: Pyramid003
+    2300130: Pyramid004
+    2300132: Torus003
+    2300134: Torus004
+    2300136: Box036 1
+    2300138: Box037 1
+    2300140: Box038 1
+    2300142: Box039 1
+    2300144: Box040 1
+    2300146: Box041 1
+    2300148: Box042 1
+    2300150: Box043 1
+    2300152: Box044 1
+    2300154: Box045 1
+    2300156: Box047 1
+    2300158: Box048 1
+    2300160: Box049 1
+    2300162: Capsule009 1
+    2300164: Cylinder008 1
+    2300166: Pyramid003 1
+    2300168: Torus003 1
+    3300000: Box035
+    3300002: Box036
+    3300004: Box037
+    3300006: Box038
+    3300008: Box039
+    3300010: Box040
+    3300012: Box041
+    3300014: Box042
+    3300016: Box043
+    3300018: Box044
+    3300020: Box045
+    3300022: Box047
+    3300024: Box048
+    3300026: Box049
+    3300028: Box050
+    3300030: Box051
+    3300032: Box052
+    3300034: Box053
+    3300036: Box054
+    3300038: Box055
+    3300040: Box056
+    3300042: Box057
+    3300044: Box058
+    3300046: Box059
+    3300048: Box060
+    3300050: Box062
+    3300052: Box063
+    3300054: Box064
+    3300056: Box075
+    3300058: Box076
+    3300060: Box077
+    3300062: Box078
+    3300064: Box079
+    3300066: Box080
+    3300068: Box081
+    3300070: Box082
+    3300072: Box083
+    3300074: Box084
+    3300076: Box085
+    3300078: Box098
+    3300080: Box099
+    3300082: Box100
+    3300084: Box101
+    3300086: Box102
+    3300088: Box104
+    3300090: Box105
+    3300092: Box106
+    3300094: Box107
+    3300096: Box108
+    3300098: Box109
+    3300100: Box111
+    3300102: Box112
+    3300104: Box113
+    3300106: Box114
+    3300108: Box131
+    3300110: Box167
+    3300112: Box168
+    3300114: Box169
+    3300116: Capsule009
+    3300118: Capsule013
+    3300120: Cylinder008
+    3300122: Cylinder011
+    3300124: Cylinder013
+    3300126: Cylinder014
+    3300128: Pyramid003
+    3300130: Pyramid004
+    3300132: Torus003
+    3300134: Torus004
+    3300136: Box036 1
+    3300138: Box037 1
+    3300140: Box038 1
+    3300142: Box039 1
+    3300144: Box040 1
+    3300146: Box041 1
+    3300148: Box042 1
+    3300150: Box043 1
+    3300152: Box044 1
+    3300154: Box045 1
+    3300156: Box047 1
+    3300158: Box048 1
+    3300160: Box049 1
+    3300162: Capsule009 1
+    3300164: Cylinder008 1
+    3300166: Pyramid003 1
+    3300168: Torus003 1
+    4300000: Box035
+    4300002: Box036
+    4300004: Box037
+    4300006: Box038
+    4300008: Box039
+    4300010: Box040
+    4300012: Box041
+    4300014: Box042
+    4300016: Box043
+    4300018: Box044
+    4300020: Capsule009
+    4300022: Box045
+    4300024: Cylinder008
+    4300026: Box048
+    4300028: Torus003
+    4300030: Box049
+    4300032: Box047
+    4300034: Pyramid003
+    4300036: Box050
+    4300038: Box051
+    4300040: Box052
+    4300042: Box053
+    4300044: Box054
+    4300046: Box055
+    4300048: Box056
+    4300050: Box057
+    4300052: Box058
+    4300054: Box059
+    4300056: Capsule013
+    4300058: Box060
+    4300060: Cylinder011
+    4300062: Box062
+    4300064: Torus004
+    4300066: Box063
+    4300068: Box064
+    4300070: Pyramid004
+    4300072: Box075
+    4300074: Box076
+    4300076: Box077
+    4300078: Box078
+    4300080: Box079
+    4300082: Box084
+    4300084: Box083
+    4300086: Box082
+    4300088: Box080
+    4300090: Cylinder014
+    4300092: Cylinder013
+    4300094: Box081
+    4300096: Box085
+    4300098: Box114
+    4300100: Box099
+    4300102: Box098
+    4300104: Box100
+    4300106: Box101
+    4300108: Box102
+    4300110: Box104
+    4300112: Box109
+    4300114: Box105
+    4300116: Box106
+    4300118: Box107
+    4300120: Box108
+    4300122: Box112
+    4300124: Box113
+    4300126: Box111
+    4300128: Box131
+    4300130: Box167
+    4300132: Box168
+    4300134: Box169
+    4300136: Box036
+    4300138: Box037
+    4300140: Box038
+    4300142: Box039
+    4300144: Box040
+    4300146: Box041
+    4300148: Box042
+    4300150: Box043
+    4300152: Box044
+    4300154: Capsule009
+    4300156: Box045
+    4300158: Cylinder008
+    4300160: Box048
+    4300162: Torus003
+    4300164: Box049
+    4300166: Box047
+    4300168: Pyramid003
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
